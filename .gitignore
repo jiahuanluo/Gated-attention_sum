@@ -1,0 +1,8 @@
+__pycache__
+*.pt
+.idea
+*.pyc
+logs/*
+models/__pycache__
+utils/__pycache__
+data/*
